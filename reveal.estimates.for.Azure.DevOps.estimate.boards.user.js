@@ -6,6 +6,7 @@
 // @author       lerthe61
 // @match        https://ms-devlabs.gallerycdn.vsassets.io/extensions/ms-devlabs/estimate/*/build/index.html
 // @require      https://code.jquery.com/jquery-3.4.1.slim.min.js
+// @updateURL    https://github.com/lerthe61/reveal.estimates.for.Azure.DevOps.estimate.boards.js/raw/main/reveal.estimates.for.Azure.DevOps.estimate.boards.user.js
 // @grant        none
 // ==/UserScript==
 
