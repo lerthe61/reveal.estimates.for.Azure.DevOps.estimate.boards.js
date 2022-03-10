@@ -3,6 +3,8 @@ reveal.estimates.for.Azure.DevOps.estimate.boards.js
 
 Tampermonkey script that will reveal estimates on Azure DevOps estimation board
 
+![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2.svg)
+
 ## prerequisites
  
  - greasemonkey addon for your browser
